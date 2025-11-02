@@ -18,4 +18,4 @@ qr.make(fit=True)
 img = qr.make_image(fill_color="black", back_color="white")
 
 # Save the image
-img.save("example_qrcode.png")
+img.save("bioxsystems_qrcode.png")
